@@ -33,7 +33,7 @@ theme_color: black
 markdown: kramdown
 
 scholar:
-  style: apa
+  style: assets/bibliography/ieee-with-url.csl
   locale: en
 
   sort_by: none
